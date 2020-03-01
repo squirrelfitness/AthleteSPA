@@ -13,6 +13,8 @@
     "@angular/router": "8.0.0",
     "core-js": "2.6.9",
     "firebase": ">= 5.5.7 <8",
+    "firebaseui": "^3.2.0 || ^4.0.0",
+    "firebaseui-angular": "^4.0.1",
     "rxjs": "6.5.2",
     "zone.js": "0.9.1"
   },
