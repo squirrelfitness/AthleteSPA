@@ -1,13 +1,13 @@
 export const environment = {
   production: true,
   firebaseConfig: {
-    apiKey: "AIzaSyB8z9_xh1RyMicZZm9TexGvZH-neHNFEPw",
-    authDomain: "squirrel-web-spa.firebaseapp.com",
-    databaseURL: "https://squirrel-web-spa.firebaseio.com",
-    projectId: "squirrel-web-spa",
-    storageBucket: "squirrel-web-spa.appspot.com",
-    messagingSenderId: "389057420117",
-    appId: "1:389057420117:web:2f6e87965690455581addc",
-    measurementId: "G-BZMVFLF021",
+    apiKey: "AIzaSyCQD6BKylJER662F-i_pQ-P0xO_35v0GJI",
+    authDomain: "squirrel-webspa.firebaseapp.com",
+    databaseURL: "https://squirrel-webspa.firebaseio.com",
+    projectId: "squirrel-webspa",
+    storageBucket: "squirrel-webspa.appspot.com",
+    messagingSenderId: "326730630099",
+    appId: "1:326730630099:web:3091f08558b1fd719da526",
+    measurementId: "G-KVGCBXWF0P",
   }
 };
